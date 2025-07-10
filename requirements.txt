@@ -3,18 +3,9 @@ torchvision
 Pillow
 scikit-learn
 jinja2
-ipywidgets
-cryptography
 lockfile
-mock
 pyyaml
-jnius
-attrs
-truststore
-regex
+opencv-python
 tqdm
-PySocks
-pyserializable
-pyopenssl
 gdown
 glide-text2im @ git+https://github.com/openai/glide-text2im@69b530740eb6cef69442d6180579ef5ba9ef063e
